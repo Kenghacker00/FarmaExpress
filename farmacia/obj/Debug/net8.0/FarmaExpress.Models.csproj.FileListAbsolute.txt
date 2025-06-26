@@ -1,0 +1,83 @@
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\DYNABOOK\OneDrive\Desktop\TercerSistemático\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress (1)\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.AssemblyReference.cache
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\Marcel\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.AssemblyReference.cache
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\DYNABOOK\OneDrive\Desktop\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.AssemblyReference.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.deps.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\bin\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.AssemblyInfo.cs
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\refint\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\farmacia\obj\Debug\net8.0\ref\FarmaExpress.Models.dll

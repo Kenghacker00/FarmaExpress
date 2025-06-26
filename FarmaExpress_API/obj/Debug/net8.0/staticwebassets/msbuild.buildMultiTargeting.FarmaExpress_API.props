@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FarmaExpress_API.props" />
+</Project>

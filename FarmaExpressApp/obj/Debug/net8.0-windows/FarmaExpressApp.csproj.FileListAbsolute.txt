@@ -1,0 +1,213 @@
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.csproj.AssemblyReference.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.CambiarContraseña.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Catalogo.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.IniciodeSesión.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.OlvidasteContraseñaForm.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.ProductoControl.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Productopedido.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Properties.Resources.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.RegistroForm.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.csproj.GenerateResource.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.CarritoCompras.resources
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.AssemblyInfoInputs.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.AssemblyInfo.cs
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.csproj.CoreCompileInputs.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.deps.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.runtimeconfig.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.exe
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.exe
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.deps.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.runtimeconfig.json
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.pdb
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\AutoMapper.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\MailKit.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress.Models.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress.Models.pdb
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.pdb
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExp.AAF87B92.Up2Date
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\refint\FarmaExpressApp.dll
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.pdb
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.genruntimeconfig.cache
+C:\Users\hfgon\OneDrive - UNI\Programacion\Programacion II\FarmaExpress (3)\FarmaExpress (3)\FarmaExpress (2)\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\ref\FarmaExpressApp.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\refint\FarmaExpressApp.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.pdb
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\appsettings.Development.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.deps.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.runtimeconfig.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.exe
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.exe
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.deps.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.runtimeconfig.json
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpressApp.pdb
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\AutoMapper.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\MailKit.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.OpenApi.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Net.Http.Json.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress.Models.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress.Models.pdb
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\FarmaExpress_API.pdb
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.CambiarContraseña.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.CarritoCompras.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Catalogo.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.OlvidasteContraseñaForm.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.ProductoControl.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Productopedido.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Properties.Resources.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.RegistroForm.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.AssemblyInfo.cs
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExp.AAF87B92.Up2Date
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.genruntimeconfig.cache
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\ref\FarmaExpressApp.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.IniciodeSesión.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\obj\Debug\net8.0-windows\FarmaExpressApp.Pago.resources
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\USER\Downloads\FarmaExpress\FarmaExpress\FarmaExpressApp\bin\Debug\net8.0-windows\Imágenes\logoMotoOg.jpg

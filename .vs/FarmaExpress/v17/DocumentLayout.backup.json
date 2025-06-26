@@ -1,0 +1,618 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmaexpressapp\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\pago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\pago.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\iniciodesesi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\iniciodesesi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\productocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\productocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\verificacioncodigodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\verificacioncodigodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressunitarias\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|solutionrelative:farmaexpressunitarias\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressunitarias\\categoriacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|solutionrelative:farmaexpressunitarias\\categoriacontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressunitarias\\pedidocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|solutionrelative:farmaexpressunitarias\\pedidocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressunitarias\\productocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|solutionrelative:farmaexpressunitarias\\productocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressunitarias\\usuariocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05FBF6-A64F-4D04-8A8E-A40072D5D15C}|FarmaExpressUnitarias\\FarmaExpressUnitarias.csproj|solutionrelative:farmaexpressunitarias\\usuariocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\carritocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\carritocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\iniciodesesi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\iniciodesesi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\pedidodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\pedidodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\pedidodetallecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\pedidodetallecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\farmaexpressapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\farmaexpressapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpressapp\\iniciodesesi\u00F3n.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349A0036-F71A-4EEB-957B-839B4F71C959}|FarmaExpressApp\\FarmaExpressApp.csproj|solutionrelative:farmaexpressapp\\iniciodesesi\u00F3n.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\repository\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\repository\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\repository\\irepositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\repository\\irepositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmacia\\dto\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FFD81-6F90-439A-AAD7-CEBAD42DE0E2}|farmacia\\FarmaExpress.Models.csproj|solutionrelative:farmacia\\dto\\pedidoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|c:\\users\\user\\downloads\\farmaexpress\\farmaexpress\\farmaexpress_api\\migrations\\20250615051239_precision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0348B-869D-4DB1-97EB-BDE938BE5ABE}|FarmaExpress_API\\FarmaExpress_API.csproj|solutionrelative:farmaexpress_api\\migrations\\20250615051239_precision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Pago.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\Pago.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Pago.cs",
+              "RelativeToolTip": "FarmaExpressApp\\Pago.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAASwEQBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T04:10:57.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pago.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Pago.Designer.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\Pago.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Pago.Designer.cs",
+              "RelativeToolTip": "FarmaExpressApp\\Pago.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:22:22.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\ProductoControl.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\ProductoControl.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\ProductoControl.cs [Design]",
+              "RelativeToolTip": "FarmaExpressApp\\ProductoControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:11:28.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:15:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:14:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\UsuarioDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:11:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\UsuarioUpdateDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\UsuarioUpdateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\UsuarioUpdateDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\UsuarioUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:11:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerificacionCodigoDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\VerificacionCodigoDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\VerificacionCodigoDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\VerificacionCodigoDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\VerificacionCodigoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:11:30.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\CategoriaControllerTest.cs",
+              "RelativeDocumentMoniker": "FarmaExpressUnitarias\\CategoriaControllerTest.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\CategoriaControllerTest.cs",
+              "RelativeToolTip": "FarmaExpressUnitarias\\CategoriaControllerTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:11:07.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidoControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\PedidoControllerTest.cs",
+              "RelativeDocumentMoniker": "FarmaExpressUnitarias\\PedidoControllerTest.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\PedidoControllerTest.cs",
+              "RelativeToolTip": "FarmaExpressUnitarias\\PedidoControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:10:46.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\ProductoControllerTest.cs",
+              "RelativeDocumentMoniker": "FarmaExpressUnitarias\\ProductoControllerTest.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\ProductoControllerTest.cs",
+              "RelativeToolTip": "FarmaExpressUnitarias\\ProductoControllerTest.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:10:25.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAmwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:01:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\UsuarioControllerTest.cs",
+              "RelativeDocumentMoniker": "FarmaExpressUnitarias\\UsuarioControllerTest.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\UsuarioControllerTest.cs",
+              "RelativeToolTip": "FarmaExpressUnitarias\\UsuarioControllerTest.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:00:54.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\AuthControllerTest.cs",
+              "RelativeDocumentMoniker": "FarmaExpressUnitarias\\AuthControllerTest.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressUnitarias\\AuthControllerTest.cs",
+              "RelativeToolTip": "FarmaExpressUnitarias\\AuthControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:59:41.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarritoCompras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\CarritoCompras.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\CarritoCompras.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\CarritoCompras.cs [Design]",
+              "RelativeToolTip": "FarmaExpressApp\\CarritoCompras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:54:32.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Catalogo.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\Catalogo.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Catalogo.cs",
+              "RelativeToolTip": "FarmaExpressApp\\Catalogo.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwHoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:48:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Catalogo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Catalogo.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\Catalogo.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Catalogo.cs [Design]",
+              "RelativeToolTip": "FarmaExpressApp\\Catalogo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:45:58.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistroForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\RegistroForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\RegistroForm.cs",
+              "RelativeToolTip": "FarmaExpressApp\\RegistroForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:45:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistroForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\RegistroForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\RegistroForm.cs [Design]",
+              "RelativeToolTip": "FarmaExpressApp\\RegistroForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:45:11.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IniciodeSesi\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\IniciodeSesi\u00F3n.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\IniciodeSesi\u00F3n.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\IniciodeSesi\u00F3n.cs",
+              "RelativeToolTip": "FarmaExpressApp\\IniciodeSesi\u00F3n.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:42:49.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniciodeSesi\u00F3n.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\IniciodeSesi\u00F3n.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\IniciodeSesi\u00F3n.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\IniciodeSesi\u00F3n.cs [Design]",
+              "RelativeToolTip": "FarmaExpressApp\\IniciodeSesi\u00F3n.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:42:41.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PedidoDetalleDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoDetalleDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\PedidoDetalleDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoDetalleDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\PedidoDetalleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:42:27.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PedidoDetalleCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoDetalleCreateDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\PedidoDetalleCreateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoDetalleCreateDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\PedidoDetalleCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:42:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:42:21.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FarmaExpressApp.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\FarmaExpressApp.csproj",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\FarmaExpressApp.csproj",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\FarmaExpressApp.csproj",
+              "RelativeToolTip": "FarmaExpressApp\\FarmaExpressApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T10:35:40.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\ProductoDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:18:34.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pago.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Pago.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\Pago.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\Pago.cs [Design]",
+              "RelativeToolTip": "FarmaExpressApp\\Pago.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:38:16.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IniciodeSesi\u00F3n.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\IniciodeSesi\u00F3n.Designer.cs",
+              "RelativeDocumentMoniker": "FarmaExpressApp\\IniciodeSesi\u00F3n.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpressApp\\IniciodeSesi\u00F3n.Designer.cs",
+              "RelativeToolTip": "FarmaExpressApp\\IniciodeSesi\u00F3n.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:25:27.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FarmaExpress_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T14:58:38.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Repository\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Repository\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Repository\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Repository\\IRepositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:22:09.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Repository\\IRepositories\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Repository\\IRepositories\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Repository\\IRepositories\\IPedidoRepository.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Repository\\IRepositories\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:30:53.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250615051239_Precision.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Migrations\\20250615051239_Precision.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Migrations\\20250615051239_Precision.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Migrations\\20250615051239_Precision.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Migrations\\20250615051239_Precision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:12:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:37:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PedidoUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoUpdateDto.cs",
+              "RelativeDocumentMoniker": "farmacia\\Dto\\PedidoUpdateDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\farmacia\\Dto\\PedidoUpdateDto.cs",
+              "RelativeToolTip": "farmacia\\Dto\\PedidoUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T04:36:48.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Repository\\Repository.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Repository\\Repository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:23:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Mappingconfig.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Mappingconfig.cs",
+              "RelativeDocumentMoniker": "FarmaExpress_API\\Mappingconfig.cs",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\FarmaExpress\\FarmaExpress\\FarmaExpress_API\\Mappingconfig.cs",
+              "RelativeToolTip": "FarmaExpress_API\\Mappingconfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:13:34.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
